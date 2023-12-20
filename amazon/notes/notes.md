@@ -1,18 +1,18 @@
 # Step-by-Step Guide to Launching the Script and Extracting Information
 
-Firstly, we craft our script. We open the terminal and install the necessary packages:
+Firstly, craft your script. Open the terminal and install the necessary packages:
 - pip install dash
 - pip install dash-bootstrap-components
   
-Next, we paste the contents of the script, save the file, and from the terminal, navigate to the folder where we saved the script. We then execute the command:
+Next, paste the contents of the script, save the file, and from the terminal, navigate to the folder where you saved the script. Then execute the command:
 · python3 amazon.py
 
 Upon successful execution, the console will display the following IP address:
 · http://127.0.0.1:8050/
 
-Visit this address, input the link we wish to scrape - for instance, "https://www.amazon.com/s?k=graphics+cards&crid=13IJRSH8S6KMP&sprefix=%2Caps%2C264&ref=nb_sb_ss_recent_1_0_recent" - and click on "Fetch".
+Visit this address, input the link you wish to scrape - for instance, "https://www.amazon.com/s?k=graphics+cards&crid=13IJRSH8S6KMP&sprefix=%2Caps%2C264&ref=nb_sb_ss_recent_1_0_recent" - and click on "Fetch".
 
-This will return a listing of all the products we're interested in. By clicking "Download", we can then download the CSV file to work with.
+This will return a listing of all the products you're interested in. By clicking "Download", you can download the CSV file to work with.
 
 If you encounter an error indicating that your IP has been banned, it means you can no longer perform Web Scraping on that site:
 
