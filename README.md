@@ -7,7 +7,7 @@ This project highlights a Data Science task carried out as part of my coursework
 ## Project Components
 The project is structured into three pivotal elements:
 - Data File (CSV): This file encapsulates a comprehensive list detailing the prices and features of products sourced from the search results on Amazon.
-- Jupyter Notebook: Here, you'll find the Python script used to perform the web scraping task.
+- Python script: Here, you'll find the Python script used to perform the web scraping task.
 - Notes: This document outlines the step-by-step process followed to execute the script via the terminal, detailing the methodologies and tools employed.
 
 Feel free to explore the repository, where you can find detailed insights into the scraping process and the data analysis conducted. Your contributions and feedback are highly appreciated to enhance the project further.
